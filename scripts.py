@@ -30,7 +30,7 @@ class Scripted(object):
 <b>📌 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : <a href='https://t.me/Moviesflixers_DL'>Tᴀᴍɪʟᴡᴇʙ Tɢ Nᴇᴛᴡᴏʀᴋ</a></b>\n"""
 
 
-    CUSTOM_CAPTION = "<i>{}</i>"
+    CUSTOM_CAPTION = "<b>{}</b>"
     ACCESS_DENIED = "<b>¥ou 𝐀𝐫𝐞 𝐁𝐚𝐧𝐧𝐞𝐝 🚫</b>"
     BANNED_USER_TEXT = "<i>¥ou 𝐀𝐫𝐞 𝐁𝐚𝐧𝐧𝐞𝐝 🚫</i>"
     TRYING_TO_UPLOAD = "<i>𝐓𝐫𝐲𝐢𝐧𝐠 𝐭𝐨 𝐮𝐩𝐥𝐨𝐚𝐝....</i>"
